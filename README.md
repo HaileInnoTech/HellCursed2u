@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Hai Le @HellCursed2u
-- 👀 I’m interested in It and I am studying in Sofware Dev
+### WELCOME TO MY PAGE 👋👋👋
+My name is Hai Le. I am a student studying Swinburne University of Technology, majoring in Software Development. I am interested in the following topics: Application, IOT, Database.<br>
+## 📫 How to reach me: 
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hai-hoang-le-a2379a16a/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HellCursed2u/)
 
-
-<!---
-HellCursed2u/HellCursed2u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
