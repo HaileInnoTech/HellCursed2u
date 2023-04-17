@@ -14,12 +14,13 @@ My name is Hai Le. I am a student studying Swinburne University of Technology, m
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HellCursed2u&repo=OpenCV-AutoCar-LineFollower&theme=merko" />
 </a>
-<a href="https://github.com/HellCursed2u/Door-Lock-RFID_RC522">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HellCursed2u&repo=Door-Lock-RFID_RC522&theme=gruvbox" />
-</a> 
-
 <a href="https://github.com/HellCursed2u/Control-Led-ESP8266-01S">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HellCursed2u&repo=Control-Led-ESP8266-01S&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HellCursed2u&repo=Control-Led-ESP8266-01S&theme=highcontrast" />
 </a> 
+
+<a href="https://github.com/HellCursed2u/Door-Lock-RFID_RC522">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HellCursed2u&repo=Door-Lock-RFID_RC522&theme=tokyonight" />
+</a> 
+
