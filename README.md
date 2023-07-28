@@ -5,7 +5,7 @@ My name is Hai Le. I am a student studying at Swinburne University of Technology
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hai-le-a2379a16a/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HellCursed2u/)
 
-![Hai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HellCursed2u&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Hai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HaileInnoTech&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/HaileInnoTech/Swinburne-ICT-SW-Courses">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
